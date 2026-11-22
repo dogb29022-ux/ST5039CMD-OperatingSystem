@@ -7,3 +7,10 @@ This repository contains lecture materials, laboratory exercises, source code ex
 3. Examine how software interacts with system resources and hardware.
 4. Analyze process execution, memory organization, and resource management.
 5. Apply theoretical concepts through hands-on laboratory activities.
+
+## Setup
+    # clone this repository
+    git clone https://github.com/dogb29022-ux/ST5039CMD-OperatingSystem.git
+
+    # cd into working directory 
+    cd ST5039CMD-OperatingSystem
