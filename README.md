@@ -27,5 +27,7 @@ This repository contains lecture materials, laboratory exercises, source code ex
 
 ## Author
 Student name: Shreejan Byanju
+
 Module: Programming and Operating System
+
 Module Leader: Rupak Rajbhanshi
