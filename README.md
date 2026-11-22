@@ -14,3 +14,18 @@ This repository contains lecture materials, laboratory exercises, source code ex
 
     # cd into working directory 
     cd ST5039CMD-OperatingSystem
+
+## Structure
+
+### Lectures
+1. Introduction To Operating System
+2. C-programming Basics / Integration and       Process Concept
+3. Data Types and OS Memory Management
+
+### Labs
+
+
+## Author
+Student name: Shreejan Byanju
+Module: Programming and Operating System
+Module Leader: Rupak Rajbhanshi
